@@ -1,0 +1,550 @@
+{
+    "Rot / Blau / Gelb": [
+        {
+            "name": "Arenaleiter Rocko",
+            "sprite": "brock-gen1"
+        },
+        {
+            "name": "Arenaleiter Misty",
+            "sprite": "misty-gen1"
+        },
+        {
+            "name": "Arenaleiter Major Bob",
+            "sprite": "ltsurge-gen1"
+        },
+        {
+            "name": "Arenaleiter Erika",
+            "sprite": "erika-gen1"
+        },
+        {
+            "name": "Arenaleiter Koga",
+            "sprite": "koga-gen1"
+        },
+        {
+            "name": "Arenaleiter Sabrina",
+            "sprite": "sabrina-gen1"
+        },
+        {
+            "name": "Arenaleiter Pyro",
+            "sprite": "blaine-gen1"
+        },
+        {
+            "name": "Arenaleiter Giovanni",
+            "sprite": "giovanni-gen1"
+        },
+        {
+            "name": "Top 4 Lorelei",
+            "sprite": "lorelei-gen1"
+        },
+        {
+            "name": "Top 4 Bruno",
+            "sprite": "bruno-gen1"
+        },
+        {
+            "name": "Top 4 Agatha",
+            "sprite": "agatha-gen1"
+        },
+        {
+            "name": "Top 4 Siegfried",
+            "sprite": "lance-gen1"
+        },
+        {
+            "name": "Champ Blau",
+            "sprite": "blue-gen1"
+        }
+    ],
+    "Feuerrot / Blattgrün": [
+        {
+            "name": "Arenaleiter Rocko",
+            "sprite": "brock-gen1"
+        },
+        {
+            "name": "Arenaleiter Misty",
+            "sprite": "misty-gen1"
+        },
+        {
+            "name": "Arenaleiter Major Bob",
+            "sprite": "ltsurge-gen1"
+        },
+        {
+            "name": "Arenaleiter Erika",
+            "sprite": "erika-gen1"
+        },
+        {
+            "name": "Arenaleiter Koga",
+            "sprite": "koga-gen1"
+        },
+        {
+            "name": "Arenaleiter Sabrina",
+            "sprite": "sabrina-gen1"
+        },
+        {
+            "name": "Arenaleiter Pyro",
+            "sprite": "blaine-gen1"
+        },
+        {
+            "name": "Arenaleiter Giovanni",
+            "sprite": "giovanni-gen1"
+        },
+        {
+            "name": "Top 4 Lorelei",
+            "sprite": "lorelei-gen1"
+        },
+        {
+            "name": "Top 4 Bruno",
+            "sprite": "bruno-gen1"
+        },
+        {
+            "name": "Top 4 Agatha",
+            "sprite": "agatha-gen1"
+        },
+        {
+            "name": "Top 4 Siegfried",
+            "sprite": "lance-gen1"
+        },
+        {
+            "name": "Champ Blau",
+            "sprite": "blue-gen1"
+        }
+    ],
+    "Gold / Silber / Kristall": [
+        {
+            "name": "Rivale Silber",
+            "sprite": "silver-gen2"
+        },
+        {
+            "name": "Arenaleiter Falk",
+            "sprite": "falkner-gen2"
+        },
+        {
+            "name": "Arenaleiter Kai",
+            "sprite": "bugsy-gen2"
+        },
+        {
+            "name": "Arenaleiter Bianca",
+            "sprite": "whitney-gen2"
+        },
+        {
+            "name": "Arenaleiter Jens",
+            "sprite": "morty-gen2"
+        },
+        {
+            "name": "Arenaleiter Hartwig",
+            "sprite": "chuck-gen2"
+        },
+        {
+            "name": "Arenaleiter Jasmin",
+            "sprite": "jasmine-gen2"
+        },
+        {
+            "name": "Arenaleiter Norwin",
+            "sprite": "pryce-gen2"
+        },
+        {
+            "name": "Arenaleiter Sandra",
+            "sprite": "clair-gen2"
+        },
+        {
+            "name": "Top 4 Willi",
+            "sprite": "will-gen2"
+        },
+        {
+            "name": "Top 4 Koga",
+            "sprite": "koga-gen2"
+        },
+        {
+            "name": "Top 4 Bruno",
+            "sprite": "bruno-gen2"
+        },
+        {
+            "name": "Top 4 Melanie",
+            "sprite": "karen-gen2"
+        },
+        {
+            "name": "Champ Siegfried",
+            "sprite": "lance-gen2"
+        },
+        {
+            "name": "Arenaleiter Major Bob",
+            "sprite": "ltsurge-gen2"
+        },
+        {
+            "name": "Arenaleiter Sabrina",
+            "sprite": "sabrina-gen2"
+        },
+        {
+            "name": "Arenaleiter Erika",
+            "sprite": "erika-gen2"
+        },
+        {
+            "name": "Arenaleiter Misty",
+            "sprite": "misty-gen2"
+        },
+        {
+            "name": "Arenaleiter Janina",
+            "sprite": "janine-gen2"
+        },
+        {
+            "name": "Arenaleiter Rocko",
+            "sprite": "brock-gen2"
+        },
+        {
+            "name": "Arenaleiter Pyro",
+            "sprite": "blaine-gen2"
+        },
+        {
+            "name": "Arenaleiter Blau",
+            "sprite": "blue-gen2"
+        },
+        {
+            "name": "Trainer Rot",
+            "sprite": "red-gen2"
+        }
+    ],
+    "Rubin / Saphir / Smaragd": [
+        {
+            "name": "Rivale Maike",
+            "sprite": "may-gen3"
+        },
+        {
+            "name": "Rivale Brix",
+            "sprite": "brendan-gen3"
+        },
+        {
+            "name": "Rivale Heiko",
+            "sprite": "wally-gen3"
+        },
+        {
+            "name": "Arenaleiter Felizia",
+            "sprite": "roxanne-gen3"
+        },
+        {
+            "name": "Arenaleiter Kamillo",
+            "sprite": "brawly-gen3"
+        },
+        {
+            "name": "Arenaleiter Walter",
+            "sprite": "wattson-gen3"
+        },
+        {
+            "name": "Arenaleiter Flavia",
+            "sprite": "flannery-gen3"
+        },
+        {
+            "name": "Arenaleiter Norman",
+            "sprite": "norman-gen3"
+        },
+        {
+            "name": "Arenaleiter Winona",
+            "sprite": "winona-gen3"
+        },
+        {
+            "name": "Arenaleiter Ben & Svenja",
+            "sprite": "tateandliza-gen3"
+        },
+        {
+            "name": "Arenaleiter Wassili",
+            "sprite": "wallace-gen3"
+        },
+        {
+            "name": "Top 4 Ulrich",
+            "sprite": "sidney-gen3"
+        },
+        {
+            "name": "Top 4 Antonia",
+            "sprite": "phoebe-gen3"
+        },
+        {
+            "name": "Top 4 Glacia",
+            "sprite": "glacia-gen3"
+        },
+        {
+            "name": "Top 4 Dragan",
+            "sprite": "drake-gen3"
+        },
+        {
+            "name": "Champ Troy",
+            "sprite": "steven-gen3"
+        }
+    ],
+    "Diamant / Perl / Platin": [
+        {
+            "name": "Barry",
+            "sprite": "barry"
+        },
+        {
+            "name": "Veit",
+            "sprite": "roark"
+        },
+        {
+            "name": "Silvana",
+            "sprite": "gardenia"
+        },
+        {
+            "name": "Marinus",
+            "sprite": "crasherwake"
+        },
+        {
+            "name": "Hilda",
+            "sprite": "maylene"
+        },
+        {
+            "name": "Lamina",
+            "sprite": "fantina"
+        },
+        {
+            "name": "Byron",
+            "sprite": "byron"
+        },
+        {
+            "name": "Melinda",
+            "sprite": "candice"
+        },
+        {
+            "name": "Volkner",
+            "sprite": "volkner"
+        },
+        {
+            "name": "Herwig",
+            "sprite": "aaron"
+        },
+        {
+            "name": "Teresa",
+            "sprite": "bertha"
+        },
+        {
+            "name": "Ignaz",
+            "sprite": "flint"
+        },
+        {
+            "name": "Lucian",
+            "sprite": "lucian"
+        },
+        {
+            "name": "Cynthia",
+            "sprite": "cynthia"
+        }
+    ],
+    "HeartGold / SoulSilver": [
+        {
+            "name": "Silber",
+            "sprite": "silver"
+        },
+        {
+            "name": "Falk",
+            "sprite": "falkner"
+        },
+        {
+            "name": "Kai",
+            "sprite": "bugsy"
+        },
+        {
+            "name": "Bianca",
+            "sprite": "whitney"
+        },
+        {
+            "name": "Jens",
+            "sprite": "morty"
+        },
+        {
+            "name": "Hartwig",
+            "sprite": "chuck"
+        },
+        {
+            "name": "Jasmin",
+            "sprite": "jasmine"
+        },
+        {
+            "name": "Norwin",
+            "sprite": "pryce"
+        },
+        {
+            "name": "Sandra",
+            "sprite": "clair"
+        },
+        {
+            "name": "Willi",
+            "sprite": "will"
+        },
+        {
+            "name": "Koga",
+            "sprite": "koga"
+        },
+        {
+            "name": "Bruno",
+            "sprite": "bruno"
+        },
+        {
+            "name": "Melanie",
+            "sprite": "karen"
+        },
+        {
+            "name": "Siegfried",
+            "sprite": "lance"
+        },
+        {
+            "name": "Major Bob",
+            "sprite": "ltsurge"
+        },
+        {
+            "name": "Sabrina",
+            "sprite": "sabrina"
+        },
+        {
+            "name": "Erika",
+            "sprite": "erika"
+        },
+        {
+            "name": "Misty",
+            "sprite": "misty"
+        },
+        {
+            "name": "Janina",
+            "sprite": "janine"
+        },
+        {
+            "name": "Rocko",
+            "sprite": "brock"
+        },
+        {
+            "name": "Pyro",
+            "sprite": "blaine"
+        },
+        {
+            "name": "Blue",
+            "sprite": "blue"
+        },
+        {
+            "name": "Red",
+            "sprite": "red"
+        }
+    ],
+    "Schwarz / Weiß": [
+        {
+            "name": "Cheren",
+            "sprite": "cheren"
+        },
+        {
+            "name": "Bell",
+            "sprite": "bianca"
+        },
+        {
+            "name": "Colin",
+            "sprite": "chili"
+        },
+        {
+            "name": "Maik",
+            "sprite": "cress"
+        },
+        {
+            "name": "Benny",
+            "sprite": "cilan"
+        },
+        {
+            "name": "Aloe",
+            "sprite": "lenora"
+        },
+        {
+            "name": "Artie",
+            "sprite": "burgh"
+        },
+        {
+            "name": "Kamilla",
+            "sprite": "elesa"
+        },
+        {
+            "name": "Turner",
+            "sprite": "clay"
+        },
+        {
+            "name": "Geraldine",
+            "sprite": "skyla"
+        },
+        {
+            "name": "Sandro",
+            "sprite": "brycen"
+        },
+        {
+            "name": "Lysander",
+            "sprite": "drayden"
+        },
+        {
+            "name": "Anissa",
+            "sprite": "shauntal"
+        },
+        {
+            "name": "Astor",
+            "sprite": "grimsley"
+        },
+        {
+            "name": "Kattlea",
+            "sprite": "caitlin"
+        },
+        {
+            "name": "Eugen",
+            "sprite": "marshal"
+        },
+        {
+            "name": "Lauro",
+            "sprite": "alder"
+        }
+    ],
+    "Schwarz 2 / Weiß 2": [
+        {
+            "name": "Matisse",
+            "sprite": "hugh"
+        },
+        {
+            "name": "Cheren",
+            "sprite": "cheren-gen5bw2"
+        },
+        {
+            "name": "Mica",
+            "sprite": "roxie"
+        },
+        {
+            "name": "Artie",
+            "sprite": "burgh-gen5bw2"
+        },
+        {
+            "name": "Kamilla",
+            "sprite": "elesa-gen5bw2"
+        },
+        {
+            "name": "Turner",
+            "sprite": "clay-gen5bw2"
+        },
+        {
+            "name": "Geraldine",
+            "sprite": "skyla-gen5bw2"
+        },
+        {
+            "name": "Lysander",
+            "sprite": "drayden-gen5bw2"
+        },
+        {
+            "name": "Benson",
+            "sprite": "marlon"
+        },
+        {
+            "name": "Anissa",
+            "sprite": "shauntal-gen5bw2"
+        },
+        {
+            "name": "Astor",
+            "sprite": "grimsley-gen5bw2"
+        },
+        {
+            "name": "Kattlea",
+            "sprite": "caitlin-gen5bw2"
+        },
+        {
+            "name": "Eugen",
+            "sprite": "marshal-gen5bw2"
+        },
+        {
+            "name": "Lilia",
+            "sprite": "iris"
+        }
+    ]
+}
