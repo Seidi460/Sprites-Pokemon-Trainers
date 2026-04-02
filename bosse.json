@@ -332,14 +332,14 @@
         },
         {
             "name": "Falk",
-            "sprite": "falkner",
-			"LevelCap": "13"
+            "sprite": "falkner"
+			
 			
         },
         {
             "name": "Kai",
-            "sprite": "bugsy",
-			"LevelCap": "17"
+            "sprite": "bugsy"
+			
 			
         },
         {
