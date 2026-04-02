@@ -331,18 +331,15 @@
             "sprite": "silver"
         },
         {
-            "name": "Falk",
+            "name": "Falk | LvlCap 13",
             "sprite": "falkner"
 			
 			
         },
         {
             "name": "Kai | LvlCap 17",
-            "sprite": "bugsy",
-			
-			
-			
-        },
+            "sprite": "bugsy"
+		},
         {
             "name": "Bianca",
             "sprite": "whitney"
